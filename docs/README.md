@@ -4,7 +4,7 @@
 
 [Utsubo](https://www.britannica.com/topic/Utsubo-monogatari) is a self-hosted TwineJS server that automatically compiles Twine stories to [Monogatari](https://monogatari.io/), thanks to the excellent integration format  [Twine-Monogatari](https://github.com/haroldo-ok/twine-monogatari).
 
-The formatted documentation is available at (https://chibyhq.github.io/utsubo/).
+The formatted documentation is available at https://chibyhq.github.io/utsubo/
 
 # Features Roadmap
 
