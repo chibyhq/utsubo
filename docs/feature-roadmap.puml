@@ -1,0 +1,36 @@
+@startmindmap
+
+* <&globe> Utsubo
+** Packaging
+*** <&star> Fat Spring Boot JAR (Windows / Linux)    
+*** Electron (Windows / Linux)  
+*** Electron + Docker for X11 (Linux / RPi)   
+** Features
+*** Project Management
+****_ Chapter structure
+****_ Create / Update / Delete
+****_ Git versioning
+*** Deployment
+****_ <&star> Static HTML 
+****_ Static HTML + Phonegap (Android / IOS)
+*** Tweego-based compilation
+*** TwineJS + twine-monogatari format  
+** Architecture
+*** Back-end
+****_ Java 8
+****_ Microservice
+****_ WebDAV asset management
+****_ Tweego
+*** Front-end
+****_ Monogatari
+****_ TwineJS
+****_ Twine-Monogatari
+** Hosting options
+***_ Glitch.com (java 8 / native binary)
+***_ Static HTML
+
+
+legend right
+  <&star> Priority feature    
+endlegend
+@endmindmap
