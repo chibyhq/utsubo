@@ -1,0 +1,3 @@
+[submodule "modules/twinejs"]
+	path = modules/twinejs
+	url = git@github.com:chibyhq/twinejs.git
